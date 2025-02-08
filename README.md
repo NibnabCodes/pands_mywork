@@ -1,2 +1,2 @@
 # pands_mywork
-This repository contains my submissions for the programming and scripting module.
+This repository contains my own work for the programming and scripting module.
