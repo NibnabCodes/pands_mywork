@@ -1,6 +1,6 @@
 # Programming and Scripting
 
-This repository contains my own work for the programming and scripting module.
+This repository contains my work for the programming and scripting module.
 
 By Niamh Hogan
 
